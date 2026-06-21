@@ -1,6 +1,6 @@
 # License
 
-**Piel de seda brillante**
+**Piel de seda brillante, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
